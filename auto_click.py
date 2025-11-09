@@ -54,7 +54,7 @@ def log(message):
 clean_old_logs()
 
 try:
-    driver.get("https://app-8w4wwungk5qvcotqhlsvgr.streamlit.app/")
+    driver.get("https://appio-j7snl6pagw2corxkosunuo.streamlit.app//")
     
     wait = WebDriverWait(driver, 50)  # 最多等50秒
     try:
